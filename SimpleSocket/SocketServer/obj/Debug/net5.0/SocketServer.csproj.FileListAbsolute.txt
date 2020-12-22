@@ -1,0 +1,16 @@
+D:\LabsWebApp\SimpleSocket\SocketServer\bin\Debug\net5.0\SocketServer.exe
+D:\LabsWebApp\SimpleSocket\SocketServer\bin\Debug\net5.0\SocketServer.deps.json
+D:\LabsWebApp\SimpleSocket\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.json
+D:\LabsWebApp\SimpleSocket\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.dev.json
+D:\LabsWebApp\SimpleSocket\SocketServer\bin\Debug\net5.0\SocketServer.dll
+D:\LabsWebApp\SimpleSocket\SocketServer\bin\Debug\net5.0\ref\SocketServer.dll
+D:\LabsWebApp\SimpleSocket\SocketServer\bin\Debug\net5.0\SocketServer.pdb
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\SocketServer.csprojAssemblyReference.cache
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfoInputs.cache
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfo.cs
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\SocketServer.csproj.CoreCompileInputs.cache
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\SocketServer.dll
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\ref\SocketServer.dll
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\SocketServer.pdb
+D:\LabsWebApp\SimpleSocket\SocketServer\obj\Debug\net5.0\SocketServer.genruntimeconfig.cache

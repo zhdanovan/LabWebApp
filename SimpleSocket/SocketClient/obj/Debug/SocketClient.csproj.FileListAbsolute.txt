@@ -1,0 +1,6 @@
+D:\LabsWebApp\SimpleSocket\SocketClient\bin\Debug\SocketClient.exe
+D:\LabsWebApp\SimpleSocket\SocketClient\bin\Debug\SocketClient.pdb
+D:\LabsWebApp\SimpleSocket\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+D:\LabsWebApp\SimpleSocket\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\LabsWebApp\SimpleSocket\SocketClient\obj\Debug\SocketClient.exe
+D:\LabsWebApp\SimpleSocket\SocketClient\obj\Debug\SocketClient.pdb
